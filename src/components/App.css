@@ -1,0 +1,25 @@
+.navbar{
+    background-color: rgb(221,217,206);
+    margin-bottom: 15px;
+}
+
+.titulo{
+    color: rgb(120,31,27);
+}
+.titulo:hover{
+    color: rgb(120,31,27);
+}
+
+h1{
+    color: rgb(120,31,27);
+    margin-bottom: 25px;
+}
+
+.button{
+    background-color: rgb(120,31,27);
+    border-color: rgb(120,31,27);
+}
+
+.entreBotao{
+    margin-right: 15px;
+}
